@@ -1,4 +1,4 @@
-package com.nefedov;
+package com.nefedov.project;
 
 import org.junit.jupiter.api.Test;
 
